@@ -7,7 +7,7 @@
  * 并留着「用其他程序打开」。框子本身是 {@link DocViewer}。
  * 资源里的文件存过几版的（循环迭代时每一轮一版），标题行多一个「版本」：挑一版看、挑两版对比（见 `FileHistory.tsx`）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/FileViewer
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/FileViewer
  */
 
 import { useState } from 'react'

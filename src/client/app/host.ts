@@ -5,7 +5,7 @@
  * 一页里只问一次——选 Skill 是顺手的事，不该每点一下都等一趟。看某个 skill 的全文时才去读它。
  * 顺带捎上桌面能力（用系统程序打开 SKILL.md、在文件管理器里显示）和记忆库。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/host
+ * @module @minglink/dsh-jailbreak-workflow/client/app/host
  */
 
 import type { HostListResponse, HostSkillResponse, HostSkillsResponse } from '../../shared/wire.ts'

@@ -8,7 +8,7 @@
  * - 网址：整条网址（点了在浏览器里开），底部一个「在浏览器中打开」；
  * - 自定义文字：整段排版显示，可以复制。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunItemDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunItemDialog
  */
 
 import type { ResourceItem } from '../../shared/types.ts'

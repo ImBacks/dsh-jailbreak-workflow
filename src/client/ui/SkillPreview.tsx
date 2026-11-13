@@ -5,7 +5,7 @@
  * SKILL.md 或在文件管理器里显示它所在的文件夹（插件运行时注册的 skill 没有文件，这两样不出现）。
  * 正文前是它的一句话说明和「什么时候用」。从选择框里点开时，底部带一个「选上 / 用这个」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/SkillPreview
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/SkillPreview
  */
 
 import { useEffect, useState } from 'react'

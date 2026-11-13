@@ -26,7 +26,7 @@
  *
  * 系统设了「减少动态效果」就什么都不画。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/FlowStreaks
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/FlowStreaks
  */
 
 import { EdgeLabelRenderer } from '@xyflow/react'

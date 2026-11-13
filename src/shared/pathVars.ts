@@ -12,7 +12,7 @@
  * 别处不写变量的字面量、不切字符串、不 split / join；讲给模型或用户的句子里要提变量，也用这里的常量拼。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/pathVars
+ * @module @minglink/dsh-jailbreak-workflow/shared/pathVars
  */
 
 import { join, normalize } from 'pathe'

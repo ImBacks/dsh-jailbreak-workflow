@@ -8,7 +8,7 @@
  * 所以这里在 `document` 的**捕获阶段**先接住落在区域里的拖动事件（宿主在冒泡阶段，被我们截下后看不到），
  * 自己管高亮和放下；放下之后补发一个 `dragend`，让宿主把之前（从区域外进来时）攒的计数和遮罩清掉。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/useFileDrop
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/useFileDrop
  */
 
 import { useEffect, useRef, useState } from 'react'

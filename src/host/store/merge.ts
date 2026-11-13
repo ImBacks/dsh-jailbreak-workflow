@@ -11,7 +11,7 @@
  *
  * 冲突时输出文档以**本地为准**（"保留我的"）；调用方若要"用磁盘的"，直接重新加载就是了。
  * 纯函数：不碰磁盘、不改入参、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/host/store/merge
+ * @module @minglink/dsh-jailbreak-workflow/host/store/merge
  */
 
 import {

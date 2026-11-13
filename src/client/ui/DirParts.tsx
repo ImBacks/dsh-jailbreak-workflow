@@ -9,7 +9,7 @@
  *
  * 样式在 `picker.module.css`。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DirParts
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DirParts
  */
 
 import { Icon } from './Icon.tsx'

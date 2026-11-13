@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 节点怎么称呼：提示条里点名用，复制出来的副本起名用。纯函数，不碰界面。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/nodeName
+ * @module @minglink/dsh-jailbreak-workflow/client/model/nodeName
  */
 
 import { isInput, isResource } from '../../shared/model.ts'

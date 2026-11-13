@@ -12,14 +12,14 @@ sidebar:
 需要 Node.js 22 及以上。
 
 ```bash
-dsh plugin --profile web add @xiaoso/dsh-workflow-lite
+dsh plugin --profile web add @minglink/dsh-jailbreak-workflow
 dsh web
 ```
 
 ## 桌面端
 
 1. 打开侧边栏的「插件」，点击「添加插件」→「安装第三方插件」。
-2. 填入 `@xiaoso/dsh-workflow-lite`，点击「安装」。
+2. 填入 `@minglink/dsh-jailbreak-workflow`，点击「安装」。
 3. 重启 DeepSeek Harness。
 
 安装成功后，会话页顶部出现「工作流」标签页。没有出现时见[常见问题](/dsh-jailbreak-workflow/faq/)。

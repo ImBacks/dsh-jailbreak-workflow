@@ -9,7 +9,7 @@
  * 顶上可以换成「导出成 Skill」（见 `shared/skillPack.ts`）：版本只能选一个，资源清单照旧勾，
  * 多一步「Skill 信息」（{@link HubSkillInfo}）填 SKILL.md 头部，再下载 zip 或直接装到本机。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubExport
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubExport
  */
 
 import { type ComponentProps, useEffect, useState } from 'react'

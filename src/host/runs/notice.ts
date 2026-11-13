@@ -5,7 +5,7 @@
  * 对话里显示成一行摘要，展开就是完整的注入内容（用户看得到模型收到了什么）。
  * 用 `steer` 投递：会话空闲就开一轮，正在跑就在下一步接上。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/notice
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/notice
  */
 
 import type { Context } from '@deepseek-ai/cordis'

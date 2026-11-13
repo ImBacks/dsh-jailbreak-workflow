@@ -4,7 +4,7 @@
  *
  * `sub` 都是相对那个文件夹的路径：`/` 分隔、没有首尾斜杠，文件夹本身是空串（和 `run/dir` 回的一致）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/folderBrowse
+ * @module @minglink/dsh-jailbreak-workflow/client/model/folderBrowse
  */
 
 /** 文件夹 `sub` 下面叫 `name` 的那一项的 `sub`。 */

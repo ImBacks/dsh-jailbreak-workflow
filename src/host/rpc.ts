@@ -11,7 +11,7 @@
  * 入参一律**从原始记录里逐字段读**（不做类型断言）；图文档走 `normalizeDocument`
  * 做形状归一，坏形状在这里就被挡成 `invalid_args`，不会渗进仓储。
  *
- * @module @xiaoso/dsh-workflow-lite/host/rpc
+ * @module @minglink/dsh-jailbreak-workflow/host/rpc
  */
 
 import type { Context } from '@deepseek-ai/cordis'

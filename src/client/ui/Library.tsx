@@ -9,7 +9,7 @@
  * 「基础」「常用步骤」「我的步骤」三节都能收起，收起状态记在本机；标题右边的数字是这一节里有几项，收起后也看得出。
  * 「基础」里的「记忆」拖出去后再选已有的 / 新建。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Library
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Library
  */
 
 import { useState } from 'react'

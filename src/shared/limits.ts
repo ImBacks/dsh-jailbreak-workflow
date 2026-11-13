@@ -4,7 +4,7 @@
  * 这里放**格式契约里写死的字面量**（字符集、长度上限、键序之外的那些数）。
  * 随部署变化的取值**不在这里**——那些一律是 Config 字段（见 `shared/config.ts`）。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/limits
+ * @module @minglink/dsh-jailbreak-workflow/shared/limits
  */
 
 /** 工具名（唯一工具）。 */

@@ -5,7 +5,7 @@
  * 动手之前先调 `before()`（编辑页正开着这张图时把还没写下去的改动存掉）；
  * 切换写回了工作流之后调 `onRestored()`（正开着就按磁盘重新加载）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useVersions
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useVersions
  */
 
 import { type Dispatch, type SetStateAction, useCallback, useEffect, useRef, useState } from 'react'

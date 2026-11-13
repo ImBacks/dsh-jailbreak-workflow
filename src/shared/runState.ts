@@ -6,7 +6,7 @@
  *
  * 校验结论是给模型看的——每条都写成「路径: 哪里不对（可选值…）」，照着就能改。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/runState
+ * @module @minglink/dsh-jailbreak-workflow/shared/runState
  */
 
 import { edgeWhen } from './graph.ts'

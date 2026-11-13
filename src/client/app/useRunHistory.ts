@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 实例视图的撤销 / 重做：把图的撤销栈和状态草稿的撤销栈排成一条
  * （顺序怎么对齐见 `model/runHistory.ts`）。顶栏的两个按钮和 Ctrl+Z / Ctrl+Shift+Z 都走这里。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useRunHistory
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useRunHistory
  */
 
 import { useCallback, useEffect, useRef, useState } from 'react'

@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![npm](https://img.shields.io/npm/v/@xiaoso/dsh-workflow-lite.svg)](https://www.npmjs.com/package/@xiaoso/dsh-workflow-lite)
+[![npm](https://img.shields.io/npm/v/@minglink/dsh-jailbreak-workflow.svg)](https://www.npmjs.com/package/@minglink/dsh-jailbreak-workflow)
 [![node](https://img.shields.io/badge/node-22%2B-339933.svg)](https://nodejs.org)
 [![DeepSeek Harness 0.2.x](https://img.shields.io/badge/DeepSeek%20Harness-0.2.x-4d6bfe.svg)](https://github.com/deepseek-ai/deepseek-harness)
 [![workflow packs](https://img.shields.io/badge/workflow%20packs-dsh--workflows-3e7ce4.svg)](https://github.com/Minglink/dsh-workflows)
@@ -73,14 +73,14 @@ Works with DeepSeek Harness 0.2.x stable builds; 0.2.0 and 0.2.1 are supported i
 Requires Node.js 22 or later.
 
 ```bash
-dsh plugin --profile web add @xiaoso/dsh-workflow-lite
+dsh plugin --profile web add @minglink/dsh-jailbreak-workflow
 dsh web
 ```
 
 ### Desktop
 
 1. Open **Plugins** in the sidebar, then click **Add plugin** → **Install a third-party plugin**.
-2. Enter `@xiaoso/dsh-workflow-lite` and click **Install**.
+2. Enter `@minglink/dsh-jailbreak-workflow` and click **Install**.
 3. Restart DeepSeek Harness.
 
 Once installed, a **Workflow** tab appears at the top of the session page.

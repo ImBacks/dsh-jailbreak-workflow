@@ -5,7 +5,7 @@
  * host 侧一个 endpoint 注册一条精确 Fetch 路由，客户端用 `connection.rpc.call` 调。
  * 这里只放**名字与形状**，host 与 client 两边都 import 它，避免两处各写一套字面量。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/wire
+ * @module @minglink/dsh-jailbreak-workflow/shared/wire
  */
 
 import type { MemoryEntry, MemoryVersionEntry } from './memoryLib.ts'

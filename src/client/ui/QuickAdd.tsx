@@ -6,7 +6,7 @@
  * 「用户输入」（执行前问用户、回答交给这一步）；从资源卡、输入卡拖出来时只列步骤（新步骤读它）；
  * 在空白处还能放一张空的资源卡或输入卡。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/QuickAdd
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/QuickAdd
  */
 
 import { useLayoutEffect, useState } from 'react'

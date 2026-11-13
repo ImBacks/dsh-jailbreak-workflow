@@ -8,7 +8,7 @@
  *   一条撤销步、一次保存；
  * - 选中态由文档这边说了算，单向告诉 React Flow。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Canvas
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Canvas
  */
 
 import {

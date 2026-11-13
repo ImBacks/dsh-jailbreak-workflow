@@ -12,7 +12,7 @@
  *
  * 画布据此在拖线时只露出能连的连接点，并在松手前预告这条线的含义。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/connect
+ * @module @minglink/dsh-jailbreak-workflow/client/model/connect
  */
 
 import { idKey, isInput, isResource, isStep, makeEdgeId } from '../../shared/model.ts'

@@ -11,7 +11,7 @@
  * - 道的先后按线从哪边来、往哪边去排（从上面来的走上面那条道），尽量不因为分道再多出交叉。
  *
  * 纯计算，不碰 DOM。
- * @module @xiaoso/dsh-workflow-lite/client/model/nudge
+ * @module @minglink/dsh-jailbreak-workflow/client/model/nudge
  */
 
 import type { Rect } from './route.ts'

@@ -5,7 +5,7 @@
  * 键盘：快捷键挂在视图根上——视图内任何地方拿到焦点都能冒上来，又出不了这个视图
  * （挂 window 会隔着整页抢宿主的按键）。输入框里一律让开。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/WorkflowView
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/WorkflowView
  */
 
 import type { PropsLocale, PropsRuntime } from '@deepseek-ai/dsh-client-ui-slots'

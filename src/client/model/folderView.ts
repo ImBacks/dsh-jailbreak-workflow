@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 文件夹展示的两件小事：按名字筛（「只看」）、按设置排。纯函数，展示卡和测试共用。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/folderView
+ * @module @minglink/dsh-jailbreak-workflow/client/model/folderView
  */
 
 import type { GalleryView } from '../../shared/types.ts'

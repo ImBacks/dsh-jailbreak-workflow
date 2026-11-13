@@ -5,7 +5,7 @@
  * 工具栏（− 比例 + ｜ 适应 1:1 ｜ 左转 右转）和键盘（+ − 0 1 R、方向键）做的是同一件事。
  * Esc、点空白处、✕ 都能关；叠在文档查看框上面时只关自己。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ImageZoom
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ImageZoom
  */
 
 import { useCallback, useEffect, useLayoutEffect, useRef, useState } from 'react'

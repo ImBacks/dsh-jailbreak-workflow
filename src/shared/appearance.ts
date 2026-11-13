@@ -7,7 +7,7 @@
  * 这里只有名字（host 与 client 都要用：校验、新建步骤时挑一个）；图标的笔画在 `client/ui/stepIcons.ts`。
  * 纯函数，不碰磁盘、不 import DSH 包。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/appearance
+ * @module @minglink/dsh-jailbreak-workflow/shared/appearance
  */
 
 import type { NodeData, WorkflowNode } from './types.ts'

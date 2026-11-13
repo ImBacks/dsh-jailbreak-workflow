@@ -4,7 +4,7 @@
  * 改名、删除走编辑页同一套（`Workflow.rename / remove`）：正开着的那张会先把改动写下去 / 停掉排着的保存，
  * 编辑页跟着换名字或空出来；版本目录由主机跟着搬走或删掉。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubWorkflowList
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubWorkflowList
  */
 
 import { useRef, useState } from 'react'

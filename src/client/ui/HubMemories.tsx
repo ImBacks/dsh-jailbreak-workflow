@@ -5,7 +5,7 @@
  * 这一页管已有的：改名称和描述、看文件、存版本 / 切版本、删掉。
  * 删除的确认卡挂在那一行的删除按钮上，说清有几个工作流在用、几个版本一起删。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubMemories
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubMemories
  */
 
 import { useEffect, useRef, useState } from 'react'

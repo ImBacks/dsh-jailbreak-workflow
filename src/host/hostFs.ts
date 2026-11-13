@@ -6,7 +6,7 @@
  *
  * 只读。画布那头是本机用户自己在选路径，选中的路径原样进图，执行时由模型自己去读。
  *
- * @module @xiaoso/dsh-workflow-lite/host/hostFs
+ * @module @minglink/dsh-jailbreak-workflow/host/hostFs
  */
 
 import type { Dirent } from 'node:fs'

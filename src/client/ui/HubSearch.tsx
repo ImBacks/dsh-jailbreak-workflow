@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 工作流中心各页左栏顶上的搜索框（运行实例、工作流、记忆共用）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubSearch
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubSearch
  */
 
 import type { T } from '../i18n.ts'

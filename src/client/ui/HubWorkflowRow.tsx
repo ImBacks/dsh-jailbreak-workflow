@@ -7,7 +7,7 @@
  *   回车或点开确认，Esc 取消（对话框不跟着关）。
  * - 删除的确认卡挂在这一行的删除按钮上（由 `HubWorkflowList` 统一管）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubWorkflowRow
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubWorkflowRow
  */
 
 import { useEffect, useRef } from 'react'

@@ -8,7 +8,7 @@
  *
  * 出口两个：打成 zip 走暂存区给浏览器下载，或直接装进 `~/.agents/skills/<名>`。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/skillExporter
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/skillExporter
  */
 
 import { readdir } from 'node:fs/promises'

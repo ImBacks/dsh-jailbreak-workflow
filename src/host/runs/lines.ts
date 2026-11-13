@@ -14,7 +14,7 @@
  * {@link scanLines} 要原样搬进工作线程（`toString()` 拼成线程的源码），所以它**不能引用这个模块里的任何东西**：
  * 常量、小工具都写在函数里面，文件系统从参数传进来。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/lines
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/lines
  */
 
 import type { open as openFile } from 'node:fs/promises'

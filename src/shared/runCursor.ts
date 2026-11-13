@@ -15,7 +15,7 @@
  * - 指定那一刻之前做完的步骤，交接都算已经了结——模型做完指定的步骤后，不会再绕回指定之前没接上的下游。
  * 画布上的「最后执行 / 下一步」标记与工具回给模型的进度都用它。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/runCursor
+ * @module @minglink/dsh-jailbreak-workflow/shared/runCursor
  */
 
 import { analyzeGraph, edgeWhen, type GraphAnalysis } from './graph.ts'

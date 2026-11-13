@@ -16,7 +16,7 @@
  * 选中的是绝对路径（分隔符 `/`），原样进资源。
  * `single`：编辑一项时换它的路径——只能选一个，选另一个就换过去。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HostPicker
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HostPicker
  */
 
 import { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from 'react'

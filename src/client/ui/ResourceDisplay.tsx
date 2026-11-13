@@ -15,7 +15,7 @@
  * 平时展示区不接鼠标（拖卡片、平移、缩放画布照旧）；卡片进了「交互」才能在里面滚动、点网页里的按钮。
  * 第一次进视野、而且画布停着时才挂内容（宿主页面插拔元素要整页重算样式，平移中间插就是一次卡顿）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ResourceDisplay
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ResourceDisplay
  */
 
 import {

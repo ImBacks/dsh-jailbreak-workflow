@@ -4,7 +4,7 @@
  * 跳过 `.git`、`node_modules` 与树里面的符号链接（链出去的东西不该被悄悄打进包）；超过上限就停下报 `over`，
  * 不读完一整棵大树。路径一律用 `/` 分隔、相对树根。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/tree
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/tree
  */
 
 import { createHash } from 'node:crypto'

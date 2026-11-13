@@ -6,7 +6,7 @@
  * （编辑页正开着这张时先把改动写下去，见 {@link useVersions}）。
  * 现在的内容和某个版本一样时，存的按钮按住，旁边说「现在的内容就是 v3」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/VersionList
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/VersionList
  */
 
 import { useState } from 'react'

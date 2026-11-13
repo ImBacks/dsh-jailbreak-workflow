@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 实例视图里点步骤卡上的状态小标弹出的小菜单：改状态（有条件出边的改成完成时先问判定）、
  * 指定为下一步、重跑这一步。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunStatusMenu
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunStatusMenu
  */
 
 import { useEffect, useRef } from 'react'

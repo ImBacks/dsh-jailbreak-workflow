@@ -5,7 +5,7 @@
  * 能改的（给了 `edit`）标题行多一支笔，弹窗里多一个「编辑」：大段文字都在弹窗里改，右栏只露一截。
  * 空着的能改的那块写着占位，点一下直接进「编辑」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/PreviewCard
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/PreviewCard
  */
 
 import { useState } from 'react'

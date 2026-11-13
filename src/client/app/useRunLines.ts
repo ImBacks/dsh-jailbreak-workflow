@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 展示卡按行读日志（`run/lines`）：第一次读末尾（或开头）几百行，之后文件每变一次只续读新追加的。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useRunLines
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useRunLines
  */
 
 import { useEffect, useRef, useState } from 'react'

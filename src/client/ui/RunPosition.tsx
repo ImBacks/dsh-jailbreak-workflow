@@ -5,7 +5,7 @@
  * 循环里转到第几轮、从哪一步回来的，一眼能看出来。点一行到那一步。
  * 「指定」可以改下一步：勾选的步骤进草稿（状态里的 `next`），存下后模型照它接着做。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunPosition
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunPosition
  */
 
 import { useState } from 'react'

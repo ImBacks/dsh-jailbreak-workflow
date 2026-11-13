@@ -12,7 +12,7 @@
  * 这些服务都是**可选**的：入口用 `ctx.inject` 的子上下文接上，缺了只是对应的能力用不了，视图照常。
  * 宿主的类型包不在依赖里，这里只声明用到的那几个成员。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/sessions
+ * @module @minglink/dsh-jailbreak-workflow/client/app/sessions
  */
 
 import { useSyncExternalStore } from 'react'

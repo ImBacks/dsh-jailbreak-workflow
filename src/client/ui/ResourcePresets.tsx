@@ -8,7 +8,7 @@
  * 加新预设：在 {@link PRESET_UI} 加一行（名字、默认颜色、图标），配置块按需填 `head`（内容上面）/ `tail`（内容下面），
  * 内容清单有自己的规矩（固定几项、每项的默认说明）就填 `items`——清单和编辑框照普通资源的样子画，不另起一块。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ResourcePresets
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ResourcePresets
  */
 
 import { isStepColor, type StepColor } from '../../shared/appearance.ts'

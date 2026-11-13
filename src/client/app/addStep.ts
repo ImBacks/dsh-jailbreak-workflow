@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 往图里加东西、复制一个节点：模板编辑与实例视图共用。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/addStep
+ * @module @minglink/dsh-jailbreak-workflow/client/app/addStep
  */
 
 import { isInput, isResource } from '../../shared/model.ts'

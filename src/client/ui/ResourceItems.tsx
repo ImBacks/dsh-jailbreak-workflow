@@ -13,7 +13,7 @@
  * - 网址、自定义、手填路径（还不存在的文件，比如产出）：打开编辑框，写好了才加进来。
  * 和已有的重复的不再加。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ResourceItems
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ResourceItems
  */
 
 import { useState } from 'react'

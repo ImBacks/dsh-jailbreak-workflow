@@ -4,7 +4,7 @@
  * 两边长得一样：列一层、读一份、读一张图，路径都是相对根的 `sub`（`/` 分隔）。浏览框只认 {@link BrowseSource}，
  * 不管背后是哪条 RPC。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useBrowse
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useBrowse
  */
 
 import { useEffect, useMemo, useRef, useState } from 'react'

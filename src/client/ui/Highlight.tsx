@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 搜索命中的那几个字：加粗、换成强调色，不加底色（行的悬停 / 选中底色已经够多了）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Highlight
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Highlight
  */
 
 import { matchRange } from '../model/switcherSearch.ts'

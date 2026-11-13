@@ -11,7 +11,7 @@
  * 内容（文件清单 + 每个文件的哈希）和已有的某个版本一样就不再存。拷贝跳过 `.git`、`node_modules` 和软链，
  * 超过导出包的上限就不存。和工作流的版本线各自独立：恢复工作流版本不动记忆。
  *
- * @module @xiaoso/dsh-workflow-lite/host/store/memoryVersions
+ * @module @minglink/dsh-jailbreak-workflow/host/store/memoryVersions
  */
 
 import { randomUUID } from 'node:crypto'

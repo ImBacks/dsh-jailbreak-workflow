@@ -5,7 +5,7 @@
  * 模型拿不准时才读（目录里只常驻一句摘要）。状态由插件写——模型经 `workflow_lite` 的 `state`
  * 动作改，插件补时间、轮次、流水并当场校验，所以这里不教怎么手写 YAML。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/skill
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/skill
  */
 
 import type { Context } from '@deepseek-ai/cordis'

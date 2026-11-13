@@ -5,7 +5,7 @@
  * 元数据不放进文件夹里：文件夹要原样当 skill 用。版本在 `memory-versions/<id>/` 下，见 `host/store/memoryVersions.ts`。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/memoryLib
+ * @module @minglink/dsh-jailbreak-workflow/shared/memoryLib
  */
 
 import { MAX_MEMORY_DESCRIPTION_CODEPOINTS, MAX_MEMORY_NAME_CODEPOINTS } from './limits.ts'

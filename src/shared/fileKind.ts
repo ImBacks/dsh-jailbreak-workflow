@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 文件的类型：按扩展名粗分几类，给类型签配色、决定能不能在查看框里看、能不能在画布上展示。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/fileKind
+ * @module @minglink/dsh-jailbreak-workflow/shared/fileKind
  */
 
 export type FileKind = 'markdown' | 'text' | 'code' | 'data' | 'image' | 'other'

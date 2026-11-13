@@ -1,6 +1,6 @@
 # Changelog
 
-本文件记录 `@xiaoso/dsh-workflow-lite` 的版本更新。
+本文件记录 `@minglink/dsh-jailbreak-workflow` 的版本更新。
 
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.1.0/)，
 版本号遵循 [Semantic Versioning](https://semver.org/lang/zh-CN/)。
@@ -11,6 +11,7 @@
 
 ### Changed
 
+- 插件包名改为 @minglink/dsh-jailbreak-workflow，网页版安装命令、桌面端安装名与文档站安装页同步更新。
 - 优化步骤较多时改提示词、改名称的手感：输入时画布不再整张重算，打字停下来的那一拍检查结果才更新。
 - 优化实例视图开着时的开销：后台刷新回来的内容和手上一样就不再重画。
 - 优化拖卡片时连线的绘制开销：卡片移动过程中连线不再每帧重新比对一遍。

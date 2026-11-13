@@ -10,7 +10,7 @@
  *
  * 「完成」时一次交出去（一次改动 = 一条撤销步）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/SettingsDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/SettingsDialog
  */
 
 import { useRef, useState } from 'react'

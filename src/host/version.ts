@@ -4,14 +4,14 @@
  * 从模块所在目录往上找本包的 `package.json`：构建后是 `lib/index.mjs` 的上一层，跑单测时是源码的上两层。
  * 找不到（被打进别的包里之类）就是空串，不影响导出。
  *
- * @module @xiaoso/dsh-workflow-lite/host/version
+ * @module @minglink/dsh-jailbreak-workflow/host/version
  */
 
 import { readFileSync } from 'node:fs'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 
-const PACKAGE_NAME = '@xiaoso/dsh-workflow-lite'
+const PACKAGE_NAME = '@minglink/dsh-jailbreak-workflow'
 
 export function pluginVersion(from: string = import.meta.url): string {
   let dir = dirname(fileURLToPath(from))

@@ -5,7 +5,7 @@
  * （`run/latest`），模板卡片上就显示那一份，没有就是草图。实例视图从不看别的实例。
  * 只问开着展示的那几项，只 stat 不读内容；修改时间变了，展示卡才去重读内容。页面藏起来时不问。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useDisplayStats
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useDisplayStats
  */
 
 import { useEffect, useState } from 'react'

@@ -8,7 +8,7 @@
  * 部署相关的取值一律走这里：`dataDir`（数据根）、`maxNodes`、`maxResultBytes`
  * （单次返回字节上限）、`saveDebounceMs`、`installSkill`。
  *
- * @module @xiaoso/dsh-workflow-lite/host/config
+ * @module @minglink/dsh-jailbreak-workflow/host/config
  */
 
 import type { Volatile } from '@deepseek-ai/cordis'

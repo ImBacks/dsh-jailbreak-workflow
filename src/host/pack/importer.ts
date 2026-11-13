@@ -8,7 +8,7 @@
  * 落盘的顺序：检查都过了才动手 → 资料目录 → skill → 记忆 → 版本 → 工作流文件。工作流文件最后写，
  * 中途失败不会留下一张半成品工作流。**不自动存**本机现在的内容（并入时前端事先提醒过）。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/importer
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/importer
  */
 
 import { randomBytes } from 'node:crypto'

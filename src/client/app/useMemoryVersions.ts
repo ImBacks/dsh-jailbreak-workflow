@@ -5,7 +5,7 @@
  * 内容和某一版一样时存不了（按钮按住），切换前主机先把现在的内容自动存一份（内容一样就不存）。
  * 记忆会被执行中的模型改，所以开着的时候隔几秒、窗口重新获得焦点时悄悄重读一遍，「当前」跟着磁盘走。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useMemoryVersions
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useMemoryVersions
  */
 
 import { useCallback, useEffect, useRef } from 'react'

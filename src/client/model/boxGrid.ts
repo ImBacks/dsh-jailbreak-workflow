@@ -8,7 +8,7 @@
  * **只负责缩小候选集，不做任何几何判断**：调用方拿到的候选仍然要用原来的条件精判，
  * 因此结果与线性扫描**逐字一致**（含顺序——返回的下标按原数组升序，`routeKey` 依赖这个次序）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/boxGrid
+ * @module @minglink/dsh-jailbreak-workflow/client/model/boxGrid
  */
 
 /** 走线要问几何的最小形状（与 `route.ts` 的 Rect 同形）。 */

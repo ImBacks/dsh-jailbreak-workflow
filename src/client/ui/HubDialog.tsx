@@ -12,7 +12,7 @@
  *
  * 换页时新的一页从点的那一侧滑进来（动效都只动 transform / opacity，见 `motion.tsx` 与 hub.module.css）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubDialog
  */
 
 import { useState } from 'react'

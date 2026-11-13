@@ -8,7 +8,7 @@
  * 导入导出也在这一页：右栏换成导出（{@link HubExport}，标题栏「导出」）或导入（{@link HubImport}，
  * 左栏顶上「导入」，也可以直接把包拖到这一页上）。做完回到版本，顶上一句结果。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubWorkflows
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubWorkflows
  */
 
 import { useCallback, useEffect, useState } from 'react'

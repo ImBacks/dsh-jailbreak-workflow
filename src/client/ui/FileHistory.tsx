@@ -8,7 +8,7 @@
  *   文字逐行标出删了、加了什么，没变的长段折起来；Markdown、网页还能并排看排版后的样子；
  *   图片并排，或叠在一起拖一道线左右比。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/FileHistory
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/FileHistory
  */
 
 import { useRef, useState } from 'react'

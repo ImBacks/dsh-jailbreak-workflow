@@ -7,7 +7,7 @@
  *
  * 编译器、校验、画布、工具、实例都从这里取解释。纯函数，不碰磁盘、不 import DSH 包。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/inputs
+ * @module @minglink/dsh-jailbreak-workflow/shared/inputs
  */
 
 import { byId } from './graph.ts'

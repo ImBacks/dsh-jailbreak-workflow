@@ -3,7 +3,7 @@
  *
  * 选了已有的就引用它；新建由调用方去建（id 按工作流名、步骤取默认的）。库里没有同类型的时候调用方不弹它，直接新建。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/MemoryPicker
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/MemoryPicker
  */
 
 import { useEffect, useRef } from 'react'

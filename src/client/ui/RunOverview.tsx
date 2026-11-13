@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 实例视图右栏什么都没选时的概览：总状态与进度、执行位置、说明、基本信息、时间线；
  * 不记运行状态的实例只讲清楚为什么看不到进度。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunOverview
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunOverview
  */
 
 import { isStep } from '../../shared/model.ts'

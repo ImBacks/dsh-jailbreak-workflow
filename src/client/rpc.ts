@@ -7,7 +7,7 @@
  * 客户端半各自给 cordis 的 `Context` 声明了 `connection`，两半同进一个 TS 工程时类型冲突。
  * 所以只按**形状**收窄出要用的那一小块（一个 `rpc.call`），运行时校验、不对就响亮报错。
  *
- * @module @xiaoso/dsh-workflow-lite/client/rpc
+ * @module @minglink/dsh-jailbreak-workflow/client/rpc
  */
 
 import type { ConnectionRpcResult } from '@deepseek-ai/dsh-client-connection'

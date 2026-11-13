@@ -16,7 +16,7 @@
  * 校验分工：本模块只把「读出的文本 → 文档」交给**注入的** `validate`（`shared/validate.ts`
  * 落地后由 host 装配），外加两条只有存储层才知道的判据——`workflow_dir_collision`
  * （`.json` 与同名目录并存）与"合并后的终稿先自检再落盘"（用 `readDocument` 复核 canonical 文本）。
- * @module @xiaoso/dsh-workflow-lite/host/store/repository
+ * @module @minglink/dsh-jailbreak-workflow/host/store/repository
  */
 
 import { stat } from 'node:fs/promises'

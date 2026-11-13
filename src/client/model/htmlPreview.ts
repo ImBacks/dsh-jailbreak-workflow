@@ -12,7 +12,7 @@
  *
  * 看板（画布展示的网页）再多补一段：标出卡片 / 查看框模式、写上画布主题的 `--board-*` 变量，换主题时就地改（约定见 shared/board.ts）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/htmlPreview
+ * @module @minglink/dsh-jailbreak-workflow/client/model/htmlPreview
  */
 
 import {

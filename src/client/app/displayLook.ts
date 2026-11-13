@@ -4,7 +4,7 @@
  * 和配色主题一样只是看起来的样子（见 `app/theme.ts`）：「设置 → 外观」里换，卡片自己的「外观」没选时跟着它。
  * 缺省镂空：看板透明、直接贴在画布上，后面垫一层四边渐隐的画布底色，画布的点在内容下面淡出去。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/displayLook
+ * @module @minglink/dsh-jailbreak-workflow/client/app/displayLook
  */
 
 import { useSyncExternalStore } from 'react'

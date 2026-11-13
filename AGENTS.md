@@ -31,7 +31,7 @@ gh release create workflow-lite-v<ver> --title "v<ver>" --notes-file <notes 文�
 
 - **版本号按严格 SemVer，看公共 API 不看改动大小**：公共 API 是工具接口、工作流 JSON / state.yaml 格式、RPC 目标、peer 区间。新增能力 → minor；修 bug、改措辞、重构 → patch；删改上述接口或让旧版读不了新文件 → major。只改界面呈现按实际做了什么归类，加了能力就是 minor。
 - 不兼容变更在 CHANGELOG 里明说：哪一侧不兼容、会丢什么、哪些不受影响。
-- `.npmrc` 把 `@xiaoso` 指到 npmjs 官方源（镜像站发不了）；`publishConfig.access: public` 不能删，否则 scoped 包按 restricted 发。
+- `.npmrc` 把 `@minglink` 指到 npmjs 官方源（镜像站发不了）；`publishConfig.access: public` 不能删，否则 scoped 包按 restricted 发。
 - 插件版本与 dsh 不锁步：peer（与 `engines.dsh` 同串）是 `>=0.2.0-0 <0.2.1-0 || >=0.2.1-0 <0.3.0-0`，只在换支持版本线时改。peer 对不上时宿主**静默跳过**（症状是工具消失、补丁不生效），查 `<profile>/cordis.yml` 有没有自己的行。
 - `THIRD_PARTY_NOTICES.md` 由 `scripts/notices.mjs` 生成，别手改；改过依赖 build 一次，变了就一起提交（`notices:check` 和 `tests/package.spec.ts` 会查）。
 

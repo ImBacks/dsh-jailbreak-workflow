@@ -7,7 +7,7 @@
  *
  * 用完就删；每次开新暂存时顺手清掉放了一天以上的（上次中途关掉页面留下的）。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/staging
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/staging
  */
 
 import { randomBytes } from 'node:crypto'

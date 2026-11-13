@@ -13,7 +13,7 @@
  *
  * 纯数据与纯函数，不碰磁盘、不 import DSH 包。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/dialect
+ * @module @minglink/dsh-jailbreak-workflow/shared/dialect
  */
 
 import { BOARD_ATTR, BOARD_SKILL, type BoardCardRoom } from './board.ts'

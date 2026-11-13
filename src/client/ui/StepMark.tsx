@@ -3,7 +3,7 @@
  *
  * 样子取自步骤自己的 `data.icon` / `data.color`，没存的按 id 猜（`shared/appearance.ts`）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/StepMark
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/StepMark
  */
 
 import { type Appearance, appearanceOf } from '../../shared/appearance.ts'

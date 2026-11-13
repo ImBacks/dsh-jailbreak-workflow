@@ -5,7 +5,7 @@
  *
  * 两个面各带一份标题栏（换面时整块面板换掉），所以滑块靠 `carry` 跨着重新挂载接着滑。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunModeSwitch
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunModeSwitch
  */
 
 import type { LocaleKey, T } from '../i18n.ts'

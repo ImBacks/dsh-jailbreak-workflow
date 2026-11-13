@@ -6,7 +6,7 @@
  * JS 只在列表内容变了的那一次渲染里读一遍各项的 `offsetTop`，动画本身不占主线程
  * （CSS transition / Web Animations 的 transform 都在合成器上跑）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/motion
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/motion
  */
 
 import {

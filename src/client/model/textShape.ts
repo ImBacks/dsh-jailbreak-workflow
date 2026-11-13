@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 文本类产出换个样子看：CSV / TSV 排成表、压成一行的 JSON 展开缩进、
  * 文件更新后哪几行是新的（追加的日志、改过的行）。纯函数，展示卡和查看框共用。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/textShape
+ * @module @minglink/dsh-jailbreak-workflow/client/model/textShape
  */
 
 import { extensionOf } from '../../shared/fileKind.ts'

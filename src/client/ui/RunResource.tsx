@@ -12,7 +12,7 @@
  * - **用到它的步骤**：谁产出、谁更新、谁读，带各自的运行状态，点一下跳过去。
  * - **画布展示**：和模板里同一块设置，改的只是这个实例（进草稿栏，存的时候不通知模型）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunResource
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunResource
  */
 
 import { useEffect, useMemo, useState } from 'react'

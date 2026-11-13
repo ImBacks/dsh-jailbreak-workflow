@@ -6,7 +6,7 @@
  * 正文和头部分开，头部按填的字现拼，改名字不用再编。同名 skill 已经在 `~/.agents/skills` 里时，
  * 「装到本机」先浮出确认卡问覆不覆盖。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubSkillInfo
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubSkillInfo
  */
 
 import { useEffect, useState } from 'react'

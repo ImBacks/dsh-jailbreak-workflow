@@ -4,7 +4,7 @@
  * 只认分隔符已统一成 `/` 的绝对路径（`host/list` 回的就是这种）：
  * `C:/Users/me` → `C:`、`Users`、`me`；`/home/me` → `/`、`home`、`me`；`//server/share/x` → `//server/share`、`x`。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/hostPath
+ * @module @minglink/dsh-jailbreak-workflow/client/model/hostPath
  */
 
 export interface Crumb {

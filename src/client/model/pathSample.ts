@@ -8,7 +8,7 @@
  * 只认画布会生成的绝对坐标命令：`M` `L` `H` `V` `Q` `C` `Z`（React Flow 的贝塞尔用逗号分隔，也认）。
  * 碰到别的命令返回 `null`，调用方自己退回 DOM 测量。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/pathSample
+ * @module @minglink/dsh-jailbreak-workflow/client/model/pathSample
  */
 
 export interface MeasuredPath {

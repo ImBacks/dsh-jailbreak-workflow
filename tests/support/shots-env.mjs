@@ -44,7 +44,7 @@ const MOCK_KEY = 'mock-key'
 export const SHOTS_BUNDLES = [
   '@deepseek-ai/dsh-base',
   '@deepseek-ai/dsh-web-app',
-  '@xiaoso/dsh-workflow-lite',
+  '@minglink/dsh-jailbreak-workflow',
 ]
 
 /**
@@ -55,10 +55,10 @@ export const SHOTS_BUNDLES = [
 export function prepareShotsProfile(options) {
   const name = options.profile ?? SHOTS_PROFILE
   const dir = join(dshHome(), 'profiles', name)
-  mkdirSync(join(dir, 'node_modules', '@xiaoso'), { recursive: true })
+  mkdirSync(join(dir, 'node_modules', '@minglink'), { recursive: true })
 
   // 把本仓库链进 profile：Windows 用 junction（不需要管理员），其它平台用普通目录符号链接
-  const link = join(dir, 'node_modules', '@xiaoso', 'dsh-workflow-lite')
+  const link = join(dir, 'node_modules', '@minglink', 'dsh-jailbreak-workflow')
   rmSync(link, { recursive: true, force: true })
   symlinkSync(REPO_ROOT, link, process.platform === 'win32' ? 'junction' : 'dir')
 
@@ -68,7 +68,7 @@ export function prepareShotsProfile(options) {
       {
         name: `dsh-profile-${name}`,
         private: true,
-        dependencies: { '@xiaoso/dsh-workflow-lite': `link:${REPO_ROOT.replaceAll('\\', '/')}` },
+        dependencies: { '@minglink/dsh-jailbreak-workflow': `link:${REPO_ROOT.replaceAll('\\', '/')}` },
         dsh: { profile: { bundles: SHOTS_BUNDLES, patchReload: 'startup' } },
       },
       null,

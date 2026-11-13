@@ -4,7 +4,7 @@
  * 不用原生 `<select>`：原生下拉的列表由系统画，颜色、字号、圆角都跟不上主题。
  * 选中项带底色和钩；打开时焦点落在选中项上，上下键在项之间走，Esc / 点外面收起，选了收起并把焦点还给触发块。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Select
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Select
  */
 
 import { useEffect, useRef, useState } from 'react'

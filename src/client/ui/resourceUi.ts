@@ -3,7 +3,7 @@
  *
  * 画布的资源卡、属性面板、实例视图都从这里取，同一种内容到哪儿都是同一个图标、同一种写法。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/resourceUi
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/resourceUi
  */
 
 import { idKey, isInput, isResource, itemShortName } from '../../shared/model.ts'

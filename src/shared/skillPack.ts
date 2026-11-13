@@ -17,7 +17,7 @@
  *
  * 纯类型与纯函数，不碰磁盘、不 import DSH 包。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/skillPack
+ * @module @minglink/dsh-jailbreak-workflow/shared/skillPack
  */
 
 import { skillPath } from './pathVars.ts'

@@ -4,7 +4,7 @@
  * 只是看起来的样子，不改工作流、也不用存进 profile：和视口、步骤库开关一样记在 localStorage。
  * 同一个页面里几处一起订阅（视图根节点、设置页），换了马上都跟着变；别的标签页改了也跟着变。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/theme
+ * @module @minglink/dsh-jailbreak-workflow/client/app/theme
  */
 
 import { useSyncExternalStore } from 'react'

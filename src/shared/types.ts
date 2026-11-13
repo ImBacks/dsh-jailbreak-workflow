@@ -5,7 +5,7 @@
  * 加我们自己的 `data`。本模块**只放类型与常量，不 import 任何 DSH 包、不含副作用**，
  * 好让 host / client / 单测三边直接共用。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/types
+ * @module @minglink/dsh-jailbreak-workflow/shared/types
  */
 
 // ─────────────────────────────────────────────────────────────

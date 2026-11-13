@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 导入导出页面上的算账：默认选哪些版本、清单怎么分组、勾了之后多大、
  * 导入时每个 skill 默认怎么办、确认卡上的汇总。纯函数，不碰 RPC。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/pack
+ * @module @minglink/dsh-jailbreak-workflow/client/model/pack
  */
 
 import type {

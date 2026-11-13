@@ -7,7 +7,7 @@
  * 读多少：小文本整份回去（`RUN_FILE_TEXT_MAX`，HTML 另按 `RUN_FILE_HTML_MAX` 放宽），大了只回元信息
  * 让前端说"太大了"；前 8 KB 里有 NUL 字节就当二进制。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/files
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/files
  */
 
 import { lstat, open, readdir, readFile, realpath, stat } from 'node:fs/promises'

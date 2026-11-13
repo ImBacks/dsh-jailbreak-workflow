@@ -9,7 +9,7 @@
  * 模板里的后备值是默认两套主题（晴白、石板）的实值，`tests/host/boardSkill.spec.ts` 对着
  * client/model/boardTheme.ts 查，改主题色时一起改。
  *
- * @module @xiaoso/dsh-workflow-lite/host/boardSkill
+ * @module @minglink/dsh-jailbreak-workflow/host/boardSkill
  */
 
 import type { Context } from '@deepseek-ai/cordis'

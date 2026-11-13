@@ -11,7 +11,7 @@
  * （窄、矮的卡片上收掉放不下的部分，见 `display.module.css` 的容器查询）。全是静态的，不读文件、不动；
  * 写它的步骤正在跑时，上面扫一道光。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DisplaySketch
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DisplaySketch
  */
 
 import { GALLERY_GAP, galleryGrid, galleryTracks, ratioText } from '../../shared/display.ts'

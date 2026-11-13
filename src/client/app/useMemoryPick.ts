@@ -5,7 +5,7 @@
  * 库里没有同类型的就不弹，直接新建；换一条时照样弹（好看清现在是哪条、也能新建）。
  * 菜单贴着点的那个按钮弹出（锚点写了 `data-pick-match` 的，菜单和它左对齐、一样宽）；没有按钮（从步骤库拖来的、快捷添加来的）就贴着最后一次按下或松手的位置。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useMemoryPick
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useMemoryPick
  */
 
 import { type RefObject, useCallback, useEffect, useRef, useState } from 'react'

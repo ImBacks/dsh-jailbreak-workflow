@@ -11,7 +11,7 @@
  *
  * `agentPresets` 不在本项目的依赖里，按形状收窄，不对就退回全局那一层。
  *
- * @module @xiaoso/dsh-workflow-lite/host/skillView
+ * @module @minglink/dsh-jailbreak-workflow/host/skillView
  */
 
 import type { Context } from '@deepseek-ai/cordis'

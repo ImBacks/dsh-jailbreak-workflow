@@ -8,7 +8,7 @@
  * - 拼接时不管根目录有没有尾斜杠、产出名是不是 `./` 开头，结果都只有一个分隔符。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/outputPaths
+ * @module @minglink/dsh-jailbreak-workflow/shared/outputPaths
  */
 
 import { isAbsolute, join, normalize } from 'pathe'

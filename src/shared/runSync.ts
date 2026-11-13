@@ -8,7 +8,7 @@
  *
  * 插件保存时把这些落到 YAML 上（保留注释），画布拿它预览改完的样子、提前挑出保存不了的问题。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/runSync
+ * @module @minglink/dsh-jailbreak-workflow/shared/runSync
  */
 
 import type { RunGraphFacts, RunState } from './runState.ts'

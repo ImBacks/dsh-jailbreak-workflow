@@ -5,7 +5,7 @@
  * 冲突（模型同时改了同一个字段）排在最前面，让用户选。保存不了的时候按钮按住，悬停说明原因。
  * 「通知模型」默认开着；关掉就只保存。「放弃」要二次确认，确认卡浮在按钮旁边，栏里的东西不挪位。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunDraftBar
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunDraftBar
  */
 
 import { useId, useState } from 'react'

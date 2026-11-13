@@ -5,7 +5,7 @@
  * 模型经 `state` 动作改（插件补时间、轮次、流水，改完校验），用户经画布改（逐字段核对冲突）。
  * 同一个实例的写入排队进行，不会互相覆盖。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/service
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/service
  */
 
 import { rmdir, stat } from 'node:fs/promises'

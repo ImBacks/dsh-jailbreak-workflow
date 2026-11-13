@@ -4,7 +4,7 @@
  * 工作区就是实例建立时会话的 `cwd`；路径的大小写、分隔符、末尾斜杠不同也算同一个（Windows）。
  * 没记下工作区的实例归在一组（键是空串）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/hubRuns
+ * @module @minglink/dsh-jailbreak-workflow/client/model/hubRuns
  */
 
 import type { InstanceSummary } from '../../shared/runState.ts'

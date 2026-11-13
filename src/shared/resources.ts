@@ -11,7 +11,7 @@
  *
  * 编译器、校验、画布、工具都从这里取解释。纯函数，不碰磁盘、不 import DSH 包。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/resources
+ * @module @minglink/dsh-jailbreak-workflow/shared/resources
  */
 
 import {

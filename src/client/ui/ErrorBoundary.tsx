@@ -12,7 +12,7 @@
  * 那类路径本来就各自有失败降级（保存失败走顶栏的状态与冲突横幅，RPC 失败走 `useWorkflow` 的 `fail()`
  * 弹提示，实例存盘失败在 `useRun` 里 `flash`），所以这里只补界面这一层，不给每个回调套 try/catch。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ErrorBoundary
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ErrorBoundary
  */
 
 import { Component, type ErrorInfo, Fragment, type ReactNode } from 'react'

@@ -6,7 +6,7 @@
  * 内容来自真实使用里反复出现的问题：步骤拆得太碎、中间产物没接给下游、提示词说要改的文件图里没连、
  * 循环跑几轮后台账和状态文档越写越长、每轮写法都不一样、自检时反复编译留下一堆实例。
  *
- * @module @xiaoso/dsh-workflow-lite/host/authoringSkill
+ * @module @minglink/dsh-jailbreak-workflow/host/authoringSkill
  */
 
 import type { Context } from '@deepseek-ai/cordis'

@@ -4,7 +4,7 @@
  * 坐标以**舞台中心**为原点：`x`、`y` 是图心偏了多少（屏幕像素）；`scale` 是相对原图像素的倍数；
  * `rot` 是顺时针的角度，只取 90 的倍数。`rot` 不折回 0–360，转的圈数照实累计，CSS 过渡才会沿着按钮的方向转。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/imageView
+ * @module @minglink/dsh-jailbreak-workflow/client/model/imageView
  */
 
 export interface Size {

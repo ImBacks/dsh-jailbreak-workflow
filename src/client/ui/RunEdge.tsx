@@ -8,7 +8,7 @@
  * - **上游摘要**、**交接说明**：只露几行，点开看全文——下游拿到的就是它们；
  * - 用户输入的线：本次的回答；回头线说明在循环里、目标做到第几轮。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunEdge
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunEdge
  */
 
 import type { GraphAnalysis } from '../../shared/graph.ts'

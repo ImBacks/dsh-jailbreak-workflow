@@ -10,7 +10,7 @@
  *
  * 本模块只做**只读**文件系统访问（`stat` / `readdir`）与路径拼接；一切写入在 `atomic.ts`。
  * 依赖方向严格单向：`atomic.ts` → 本模块 → `shared/*`，不成环。
- * @module @xiaoso/dsh-workflow-lite/host/store/paths
+ * @module @minglink/dsh-jailbreak-workflow/host/store/paths
  */
 
 import { randomUUID } from 'node:crypto'

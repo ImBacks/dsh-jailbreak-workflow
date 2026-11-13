@@ -10,7 +10,7 @@
  *
  * 节点身份一律按 `idKey`（大小写不敏感）比较；`label` 只用于显示。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/editor
+ * @module @minglink/dsh-jailbreak-workflow/client/model/editor
  */
 
 import { pickAppearance } from '../../shared/appearance.ts'

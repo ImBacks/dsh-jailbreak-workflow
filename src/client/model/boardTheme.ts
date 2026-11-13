@@ -4,7 +4,7 @@
  * 框里的页面是独立的源，`light-dark()` 拼出来的 `--wl-*` 进不去，所以按此刻的亮暗挑出那一套主题，写成实值。
  * 字体从视图根读（宿主的字体、瑞士的 Helvetica 系），读不到用系统字体。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/boardTheme
+ * @module @minglink/dsh-jailbreak-workflow/client/model/boardTheme
  */
 
 import { type BoardTheme, type BoardToken, boardVar } from '../../shared/board.ts'

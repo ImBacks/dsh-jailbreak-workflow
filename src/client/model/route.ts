@@ -13,7 +13,7 @@
  * 连接点在卡片边上的位置也定在这里（`STEP_SPOTS` / `FILE_SPOTS`），卡片组件照着摆，
  * 拖线预览照着算，三处永远一致。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/route
+ * @module @minglink/dsh-jailbreak-workflow/client/model/route
  */
 
 import { gridOf } from './boxGrid.ts'

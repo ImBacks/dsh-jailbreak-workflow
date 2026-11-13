@@ -3,7 +3,7 @@
  *
  * 给了 `onCheck` 整行就是一个 `<label>`，点哪都切换勾选；挂了下面那一条（里面有按钮）就不要再给 `onCheck`。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/PackRow
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/PackRow
  */
 
 import hub from './hub.module.css'

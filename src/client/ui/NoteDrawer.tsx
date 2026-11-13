@@ -4,7 +4,7 @@
  * 说明（产出文件的生成要求、步骤的描述）常常很长，放在正文上面会一直占着一大块，HTML 页面还会被挤出
  * 两层滚动条；收在开关里，要看时再拉出来，正文不跟着重排。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/NoteDrawer
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/NoteDrawer
  */
 
 import { useEffect } from 'react'

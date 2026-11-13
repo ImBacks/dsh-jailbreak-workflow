@@ -3,7 +3,7 @@
  *
  * 一块 {@link PACK_CHUNK_BYTES}（base64 之前），不赌宿主对单条消息的上限。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/packTransfer
+ * @module @minglink/dsh-jailbreak-workflow/client/app/packTransfer
  */
 
 import { PACK_CHUNK_BYTES, type PackReadResponse } from '../../shared/pack.ts'

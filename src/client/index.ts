@@ -6,7 +6,7 @@
  *
  * tab 的显示名用 **thunk**：槽位每次读取时重新求值，所以切语言不用重新注册。
  *
- * @module @xiaoso/dsh-workflow-lite/client
+ * @module @minglink/dsh-jailbreak-workflow/client
  */
 
 import type { Context as ClientContext } from '@deepseek-ai/cordis'

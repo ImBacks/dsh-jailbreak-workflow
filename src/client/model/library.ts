@@ -4,7 +4,7 @@
  * 内置步骤是**起点不是规范**：开箱即用的提示词骨架，插进图里之后随便改。没有它们，
  * 一张新图只能从空白提示词写起。文案全部走 locale 词典（键名在这里，正文在 `i18n.ts`）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/library
+ * @module @minglink/dsh-jailbreak-workflow/client/model/library
  */
 
 import { presetAppearance } from '../../shared/appearance.ts'

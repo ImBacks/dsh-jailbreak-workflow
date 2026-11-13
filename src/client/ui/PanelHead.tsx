@@ -4,7 +4,7 @@
  * 左边一个图标块（步骤的外观、资源 / 输入 / 连线的图标；实例里是「在看什么」的切换），中间是名字，
  * 名字下面一行小字是 ID（点一下复制，复制图标悬停才露），右边是关闭。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/PanelHead
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/PanelHead
  */
 
 import { useEffect, useState } from 'react'

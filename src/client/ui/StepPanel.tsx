@@ -8,7 +8,7 @@
  *   显式保存（Ctrl+S 也行），也可以删除。离开时还有没保存的改动，就顺手保存一次——
  *   改了一半一点别处就丢，比"多保存了一次"糟糕得多。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/StepPanel
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/StepPanel
  */
 
 import { useEffect, useRef, useState } from 'react'

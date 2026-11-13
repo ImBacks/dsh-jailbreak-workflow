@@ -8,7 +8,7 @@
  * 不合法的值（带竖线的名称、绝对路径的产出、带空格的判据）**不写进文档**，只在原地标红——
  * 文档里永远只有能保存的东西。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Inspector
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Inspector
  */
 
 import { useEffect, useRef, useState } from 'react'

@@ -4,7 +4,7 @@
  * 文件不走这里（文件是独立的卡片，见 `Files.tsx`）。一条步骤间的线只有三种状态：
  * 交执行结果（缺省）/ 交执行结果并附一段交接说明 / 只管先后。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Handoff
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Handoff
  */
 
 import { useEffect, useRef, useState } from 'react'

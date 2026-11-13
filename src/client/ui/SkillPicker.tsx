@@ -7,7 +7,7 @@
  * 的出口（`onManual`），平时不占地方。
  * `single`：编辑一项时换它的 skill——点一行就选定、直接关掉。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/SkillPicker
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/SkillPicker
  */
 
 import { useEffect, useMemo, useState } from 'react'

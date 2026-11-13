@@ -9,7 +9,7 @@
  *    数组顺序永不重排。往返测试与"同图两次编译逐字节相同"的期望值都来自它。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/model
+ * @module @minglink/dsh-jailbreak-workflow/shared/model
  */
 
 import { isStepColor, isStepIcon } from './appearance.ts'

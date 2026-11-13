@@ -10,7 +10,7 @@
  *
  * 状态不进索引：进度的事实源只有状态文件，索引只记"在哪、属于谁"。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/store
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/store
  */
 
 import { randomBytes } from 'node:crypto'

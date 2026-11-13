@@ -10,7 +10,7 @@
  * 每次执行都是一个工作流实例：图的快照 + 工作区里的实例目录（任务描述、默认产出）。开了「记录运行状态」
  * 的图还带一份状态：主 agent 经工具的 `state` 动作记进度，用户在画布上看、改，改动通知回模型。
  *
- * @module @xiaoso/dsh-workflow-lite
+ * @module @minglink/dsh-jailbreak-workflow
  */
 
 import { existsSync } from 'node:fs'

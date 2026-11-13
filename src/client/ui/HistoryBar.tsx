@@ -11,7 +11,7 @@
  *   （新的在上），悬停一项卡里临时换成那一版，点一下钉住。
  *   钉在旧版时换强调色、旁边一个 ✕ 回到最新。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HistoryBar
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HistoryBar
  */
 
 import { useEffect, useRef, useState } from 'react'

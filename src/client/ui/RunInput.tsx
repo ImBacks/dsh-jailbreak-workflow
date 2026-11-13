@@ -4,7 +4,7 @@
  * 问题、用户的回答（执行前填的，已补上默认值），以及回答交给了哪些步骤（点一下看那一步）。
  * 回答是实例建立时定下的，这里只读。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunInput
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunInput
  */
 
 import { inputKind, inputReaders } from '../../shared/inputs.ts'

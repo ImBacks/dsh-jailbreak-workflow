@@ -6,7 +6,7 @@
  * - 取消 / Esc：把名字改回聚焦时的样子，再收起焦点。
  * 两个按钮只在聚焦时才占位（`ui.editRow[data-live]`），平时标题栏里只有一条名字。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/TitleField
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/TitleField
  */
 
 import { useRef } from 'react'

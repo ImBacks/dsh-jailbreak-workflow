@@ -5,7 +5,7 @@
  * 「给人看」把提示词内联，适合通读与存档。实例 id 执行时才有，计划里先留着 `{instance}`。
  * 打开前会先把没落盘的改动写下去——编译读的是磁盘。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/PlanDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/PlanDialog
  */
 
 import { useEffect, useRef, useState } from 'react'

@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 实例视图里一个步骤的运行状态：状态、轮次、判定、摘要、失败原因（都能改，改动进草稿），
  * 以及谁做的、什么时候开始结束。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunNodeState
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunNodeState
  */
 
 import {

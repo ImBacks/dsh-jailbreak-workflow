@@ -12,7 +12,7 @@
  * 用法：`const confirm = useConfirm<HTMLButtonElement>()`，触发器挂 `ref={confirm.anchorRef}`、
  * `onClick={confirm.toggle}`，再在旁边放 `{confirm.render({...})}`。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Confirm
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Confirm
  */
 
 import { useEffect } from 'react'

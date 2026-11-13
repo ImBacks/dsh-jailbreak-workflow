@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 把被属性面板盖住的节点挪出来：模板编辑与实例视图共用。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/reveal
+ * @module @minglink/dsh-jailbreak-workflow/client/app/reveal
  */
 
 import type { ReactFlowInstance } from '@xyflow/react'

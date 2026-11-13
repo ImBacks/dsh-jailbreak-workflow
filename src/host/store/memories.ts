@@ -5,7 +5,7 @@
  * 本模块管增删改、列表（连同哪些工作流在用）和只读浏览；版本在 `memoryVersions.ts`。
  * 浏览走实例文件夹浏览的那几样（`runs/files.ts`），同样只许往下走、软链指出去的不认。
  *
- * @module @xiaoso/dsh-workflow-lite/host/store/memories
+ * @module @minglink/dsh-jailbreak-workflow/host/store/memories
  */
 
 import type { Dirent } from 'node:fs'

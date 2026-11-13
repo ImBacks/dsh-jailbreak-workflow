@@ -5,7 +5,7 @@
  * 窗口是文件里连续的一段（`start`–`end` 字节），筛的时候只留匹配的行和上下文，`skip` 记着中间跳过了几行。
  * 往下续（新追加的）接在后面，往上翻接在前面；超过上限就从另一头扔掉，那一头变成「还有」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/logLines
+ * @module @minglink/dsh-jailbreak-workflow/client/model/logLines
  */
 
 import type { LineFilter, ViewFrom } from '../../shared/types.ts'

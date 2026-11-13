@@ -5,7 +5,7 @@
  * 更不该因为一次平移就整图写盘、和模型正在做的改动撞车。图文件里的 `viewport` 只读不写，
  * 浏览器里没记过（第一次打开、换了浏览器）时拿它兜底。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/viewport
+ * @module @minglink/dsh-jailbreak-workflow/client/app/viewport
  */
 
 import type { Viewport } from '../../shared/types.ts'

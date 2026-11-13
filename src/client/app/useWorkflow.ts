@@ -10,7 +10,7 @@
  * - 换图 / 页面隐藏 / 卸载 → 立即写，不等防抖；
  * - `broken` 态绝不写盘。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useWorkflow
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useWorkflow
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'

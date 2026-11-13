@@ -8,7 +8,7 @@
  *
  * 画布卡片上的产出浮窗、步骤面板、「我的步骤」编辑器、内置步骤的只读详情，都走这里。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Outputs
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Outputs
  */
 
 import { useEffect, useRef, useState } from 'react'

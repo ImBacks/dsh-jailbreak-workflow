@@ -6,7 +6,7 @@
  * - 记忆：左边列这张引用的记忆（库里有的：名称、类型、几个版本），选一条，右边是它的版本（{@link MemoryVersionList}）；
  *   记忆的版本线各管各的，切记忆的版本不动工作流。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/VersionsDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/VersionsDialog
  */
 
 import { useState } from 'react'

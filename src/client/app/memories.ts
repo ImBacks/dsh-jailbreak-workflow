@@ -4,7 +4,7 @@
  * 一个 RPC 连接一份（{@link memoryStore}）；谁先要谁去读，读着的时候别人再要就等同一趟。
  * 建、改、删之后就地换掉那一行，再在后台重读一遍（在用的工作流、大小这些主机算的东西跟着对上）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/memories
+ * @module @minglink/dsh-jailbreak-workflow/client/app/memories
  */
 
 import { useEffect, useSyncExternalStore } from 'react'

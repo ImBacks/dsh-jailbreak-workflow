@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 展示设置里能直接改的数字：宽高框里的 {@link RollInput}，缩放、上下文那种「− 数 +」的 {@link Stepper}。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/NumberStep
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/NumberStep
  */
 
 import { useState } from 'react'

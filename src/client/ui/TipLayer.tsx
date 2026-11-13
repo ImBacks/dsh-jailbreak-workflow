@@ -14,7 +14,7 @@
  * - 亮着时指向相邻的元素（扫一排工具按钮）：提示滑到新位置、换字，不先收再弹；
  *   中途划过按钮之间的空隙，稍等一下再收，接得上下一个。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/TipLayer
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/TipLayer
  */
 
 import { useEffect, useLayoutEffect, useRef, useState } from 'react'

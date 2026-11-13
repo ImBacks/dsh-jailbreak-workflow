@@ -4,7 +4,7 @@
  * 点开列出系统里能打开这类文件的程序（默认的那个排第一并标出来），最后一项是在文件管理器里显示——
  * 和 DSH 文档预览右上角那个按钮一样。宿主没有桌面能力（远程访问、没接上服务）或文件还不在时不出现。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/OpenWith
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/OpenWith
  */
 
 import { useEffect, useState } from 'react'

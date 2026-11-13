@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 「工作流设置」对话框里的三块：执行方式（四张卡 + 复用执行者）、
  * 执行时（设定目标、记录运行状态两个开关）、产出根目录。状态都在对话框里，这里只画。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/SettingsFields
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/SettingsFields
  */
 
 import { useId } from 'react'

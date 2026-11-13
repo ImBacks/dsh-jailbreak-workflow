@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 小件：类名拼接、点外面关闭、浮层（分段选择在 Segmented.tsx）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/primitives
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/primitives
  */
 
 import {

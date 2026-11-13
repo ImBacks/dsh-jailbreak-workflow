@@ -10,7 +10,7 @@
  * 标出「默认 / 已改」，改过的能恢复默认；删空或改回默认的，存的时候就不留说明（之后默认措辞改进了也跟着变）。
  * 「完成」时才一次交出去（一次改动 = 一条撤销步），交出去的永远是写法合法、不重复的一项。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ResourceItemDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ResourceItemDialog
  */
 
 import { useEffect, useRef, useState } from 'react'

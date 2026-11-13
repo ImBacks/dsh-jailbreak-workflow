@@ -8,7 +8,7 @@
  * 顶上一条筛选（Ctrl+F 到这里）：和卡片上的「只看」一样的写法，只在这次查看里有效；打开时带着卡片的筛选。
  * 筛着看时点一行，回到全文、停在这一行上（前后各读一段），那一行亮一下。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/LogViewer
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/LogViewer
  */
 
 import { Fragment, useCallback, useEffect, useLayoutEffect, useRef, useState } from 'react'

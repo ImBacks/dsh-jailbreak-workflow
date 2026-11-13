@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 文件的类型：粗分几类在 `shared/fileKind.ts`（编译计划也要用），这里是只管界面的细分类。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/fileKind
+ * @module @minglink/dsh-jailbreak-workflow/client/model/fileKind
  */
 
 import { extensionOf, fileBaseName } from '../../shared/fileKind.ts'

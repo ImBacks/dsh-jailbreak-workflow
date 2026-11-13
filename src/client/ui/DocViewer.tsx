@@ -10,7 +10,7 @@
  * 给了 `edit` 就多一个「编辑」：整块文字在这里改（提示词、摘要这类大段文字都在弹窗里改）。
  * 调用方还能在标题行加按钮（`tools`），在正文右边放一栏（`side`：产出的各轮版本），框子大小不变、正文让出位置。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DocViewer
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DocViewer
  */
 
 import { useEffect, useRef, useState } from 'react'

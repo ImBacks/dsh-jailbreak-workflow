@@ -3,7 +3,7 @@
  * 设置浮层要用（挑列、选排序列；「自动」现在是图片墙还是文件列表），这些只有读了才知道——
  * 卡片读到了记在这里，浮层从这里拿，不为了它们再读一次。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/cardFacts
+ * @module @minglink/dsh-jailbreak-workflow/client/app/cardFacts
  */
 
 import { useSyncExternalStore } from 'react'

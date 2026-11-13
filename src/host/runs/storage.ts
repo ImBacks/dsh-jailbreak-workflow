@@ -8,7 +8,7 @@
  * 三样能清的东西：旧版遗留文件（随时可删）、已结束的实例记录（完成 / 已取消；只删索引条目与快照，
  * 工作区里的状态文件不动）、各实例存下的产出旧版（`runs/<实例>/history/`，现在的文件不动）。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/storage
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/storage
  */
 
 import type { Dirent } from 'node:fs'

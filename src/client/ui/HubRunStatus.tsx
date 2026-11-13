@@ -12,7 +12,7 @@
  *
  * 动效（都只动 transform / opacity）：菜单从小标那一角展开、各项依次浮出，收起时淡出；状态真的变了小标弹一下。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubRunStatus
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubRunStatus
  */
 
 import { useEffect, useId, useRef, useState } from 'react'

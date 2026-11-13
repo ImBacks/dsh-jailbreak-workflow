@@ -7,7 +7,7 @@
  *
  * 纯函数，不碰磁盘。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/graphDiff
+ * @module @minglink/dsh-jailbreak-workflow/shared/graphDiff
  */
 
 import {

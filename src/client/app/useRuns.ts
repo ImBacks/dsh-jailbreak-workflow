@@ -6,7 +6,7 @@
  * 只有实例视图轮询（跑着时每 {@link RUN_POLL_MS} 带上次的 mtime 问一次，没变就只回"没变"；
  * 结束的实例放慢到 {@link RUN_IDLE_POLL_MS}）；模板编辑照旧不轮询。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useRuns
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useRuns
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'

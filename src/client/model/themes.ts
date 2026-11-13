@@ -14,7 +14,7 @@
  * 每套都要过同一套检查（tests/client/themes.spec.ts）：三级文字、强调色文字、语义色、
  * 七种线色、步骤图标色在面板上过 4.5:1，线色在画布上过 3:1，七种线两两的 OKLab 色差不小于 8。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/themes
+ * @module @minglink/dsh-jailbreak-workflow/client/model/themes
  */
 
 export type ThemeMode = 'light' | 'dark'

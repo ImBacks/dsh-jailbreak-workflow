@@ -5,7 +5,7 @@
  * 一句话 / 多行文字是输入框（占位文字是灰字提示、默认值预先填好），单选 / 多选是一列选项。
  * 必填的都有了回答才能执行；回答随「执行」一起交给插件，编译进计划的「本次执行」段。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/InputsDialog
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/InputsDialog
  */
 
 import { useEffect, useRef, useState } from 'react'

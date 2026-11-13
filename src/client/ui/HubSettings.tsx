@@ -8,7 +8,7 @@
  * - 要重启才生效的项标一个小标签；保存后的提示也会再说一遍。
  * - 没有设置服务、或 profile 不让改：照样显示现值，控件都禁用，顶上说明为什么。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubSettings
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubSettings
  */
 
 import { type PluginConfigKey, RESTART_CONFIG_KEYS } from '../../shared/wire.ts'

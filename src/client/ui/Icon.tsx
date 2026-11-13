@@ -4,7 +4,7 @@
  * 自带一小套而不是引图标库：模块加载器只认冻结的平台 externals，引进来的库要整个打进
  * bundle，而这里总共只用到二十来个。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Icon
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Icon
  */
 
 import type { StepIcon } from '../../shared/appearance.ts'

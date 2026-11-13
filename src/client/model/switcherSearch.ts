@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 顶栏下拉里的搜索与分组：一个搜索框同时过滤「实例」和「工作流」，
  * 实例默认只露出最近几个，其余折在「显示全部」后面。纯函数，不碰界面。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/switcherSearch
+ * @module @minglink/dsh-jailbreak-workflow/client/model/switcherSearch
  */
 
 /** 实例默认露出几个（其余折叠）。 */

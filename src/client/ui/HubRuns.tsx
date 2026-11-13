@@ -10,7 +10,7 @@
  * 打开时拉一次全部会话的实例；移动、删除之后再拉一次。不跟着外面的重绘重拉——会话列表一有动静
  * （别的会话在输出）外面就会重绘，跟着重拉会让列表一直闪。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubRuns
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubRuns
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'

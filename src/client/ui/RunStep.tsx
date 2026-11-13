@@ -10,7 +10,7 @@
  * - **连接**：上游、下游，和模板里同一种行（`LinkRow.tsx`），多了对面那一步的状态，箭头绿的是本次
  *   经过的线；点一行看那条线（线的两端再点一下就到对面那一步）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunStep
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunStep
  */
 
 import type { GraphAnalysis } from '../../shared/graph.ts'

@@ -13,7 +13,7 @@
  * - **中日韩友好的强调**（`markdown-it-cjk-friendly`）：`**结论。**后面` 这种挨着中文标点的
  *   粗体，按 CommonMark 原规则认不出来。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Markdown
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Markdown
  */
 
 import MarkdownIt from 'markdown-it'

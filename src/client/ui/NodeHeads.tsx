@@ -4,7 +4,7 @@
  * 模板的属性面板、实例右栏的「运行」与「编辑」都用这几个，所以实例里两边切换时标题栏一点不动。
  * 右边的 `extra` 放在关闭按钮左边（实例里是「运行 / 编辑」的切换）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/NodeHeads
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/NodeHeads
  */
 
 import { useState } from 'react'

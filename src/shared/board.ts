@@ -9,7 +9,7 @@
  * 这里的变量名、属性、事件名是对模型公开的接口（skill `workflow-board` 和编译出的任务描述都照它写），
  * 改名会让已经写好的看板失去主题，只能加、不能改。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/board
+ * @module @minglink/dsh-jailbreak-workflow/shared/board
  */
 
 /** 教模型写看板的按需 skill。 */

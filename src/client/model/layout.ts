@@ -17,7 +17,7 @@
  *
  * `(0,0)` 是"还没摆过"的哨兵值（host 新建节点时的初始坐标），所以版面原点不落在它上面。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/layout
+ * @module @minglink/dsh-jailbreak-workflow/client/model/layout
  */
 
 import type { ElkExtendedEdge, ElkNode } from 'elkjs/lib/elk-api.js'

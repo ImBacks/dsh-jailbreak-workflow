@@ -7,7 +7,7 @@
  *
  * 新的一步之后不能再重做：哪一边有了新的一步，另一边的重做栈也要丢掉（`dropFuture` 告诉调用方丢哪边）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/runHistory
+ * @module @minglink/dsh-jailbreak-workflow/client/model/runHistory
  */
 
 export type HistorySide = 'graph' | 'state'

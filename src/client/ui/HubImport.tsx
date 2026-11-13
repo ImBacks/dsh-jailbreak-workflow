@@ -8,7 +8,7 @@
  * （skill 里的脚本会被 agent 执行）。名字撞了：另存为新名字（缺省），或并入已有的那张——
  * 并入**不自动存**本机现在的内容，没存成版本就提醒一句。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubImport
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubImport
  */
 
 import { Fragment, useEffect, useRef, useState } from 'react'

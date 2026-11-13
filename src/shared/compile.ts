@@ -22,7 +22,7 @@
  * 计划里的步骤引用：「流程」表**首列**写 `label（id）`（{@link displayName}），
  * 其余位置一律写 `id`——`id` 唯一，且与载荷文件名一致。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/compile
+ * @module @minglink/dsh-jailbreak-workflow/shared/compile
  */
 
 import { createHash } from 'node:crypto'

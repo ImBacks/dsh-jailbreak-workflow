@@ -2,7 +2,7 @@
  * dsh-workflow-lite — 实例视图里步骤详情的「产出 / 读取」：它写哪些、读哪些资源；
  * 悬停在画布上高亮那张卡，点一下选中它（选中资源卡后的右栏见 `RunResource.tsx`）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunFiles
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunFiles
  */
 
 import { useMemo } from 'react'

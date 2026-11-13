@@ -7,7 +7,7 @@
  * 3. 失败（不可写 / 磁盘满）**抛错**，由上层转成 `io_error`——**绝不返回一份路径不存在的计划**。
  *
  * 实例的快照建立后不变，所以同一个实例反复 `resume` 写出的内容也不变。
- * @module @xiaoso/dsh-workflow-lite/host/store/materialize
+ * @module @minglink/dsh-jailbreak-workflow/host/store/materialize
  */
 
 import { mkdir, rm } from 'node:fs/promises'

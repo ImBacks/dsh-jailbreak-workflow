@@ -15,7 +15,7 @@
  *   工作流记忆一条线都不连（每一步都读，主 agent 收尾时统一整理）。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/presets
+ * @module @minglink/dsh-jailbreak-workflow/shared/presets
  */
 
 import { MEMORY_SKILL_FILE } from './limits.ts'

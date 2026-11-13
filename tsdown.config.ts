@@ -1,5 +1,5 @@
 /**
- * Third-party tsdown build for @xiaoso/dsh-workflow-lite.
+ * Third-party tsdown build for @minglink/dsh-jailbreak-workflow.
  *
  * Node half: plain ESM library build from src — `@deepseek-ai/*` imports stay
  * external (the Loader resolves them through the profile install), so only this
@@ -21,7 +21,7 @@ import { defineConfig } from 'tsdown'
 const require_ = createRequire(import.meta.url)
 
 /** Package name — the loader module-table id and the style-tag owner stamp. */
-const ID = '@xiaoso/dsh-workflow-lite'
+const ID = '@minglink/dsh-jailbreak-workflow'
 
 /** Platform modules the frozen loader table answers; every other import inlines. */
 const CLIENT_EXTERNALS = [

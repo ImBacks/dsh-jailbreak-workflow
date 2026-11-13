@@ -13,7 +13,7 @@
  * 失败姿态：有编译级问题时 `plan` 为空串、`problems` 必填，
  * **绝不返回一份残缺计划**；写任务描述失败 ⇒ `io_error`（图本身没坏，不该是 `invalid_args`）。
  *
- * @module @xiaoso/dsh-workflow-lite/host/plan
+ * @module @minglink/dsh-jailbreak-workflow/host/plan
  */
 
 import { join } from 'node:path'

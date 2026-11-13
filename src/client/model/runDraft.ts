@@ -7,7 +7,7 @@
  *
  * 全是纯函数：实例视图只负责把它们接到界面上。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/runDraft
+ * @module @minglink/dsh-jailbreak-workflow/client/model/runDraft
  */
 
 import {

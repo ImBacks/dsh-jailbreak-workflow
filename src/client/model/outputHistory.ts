@@ -4,7 +4,7 @@
  * 存下的各版（`run/history`，见 `host/runs/history.ts`）按时间排，最后补一点「最新」——现在的文件。
  * 现在的文件就是最后存的那一版（修改时间、大小都对得上）时不另补：那一版就是最新。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/outputHistory
+ * @module @minglink/dsh-jailbreak-workflow/client/model/outputHistory
  */
 
 import type { RunHistoryResponse, RunVersion } from '../../shared/wire.ts'

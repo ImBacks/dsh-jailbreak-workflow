@@ -5,7 +5,7 @@
  * 底下只留跟「正开着的这张」有关的「从磁盘重新加载」和「新建」。
  * 双击顶栏上的名字、或刚新建好时，名字就地变成输入框改正开着的这张。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/WorkflowSwitcher
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/WorkflowSwitcher
  */
 
 import { useEffect, useMemo, useRef, useState } from 'react'

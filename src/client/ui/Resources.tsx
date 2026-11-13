@@ -8,7 +8,7 @@
  *
  * 行上悬停 = 画布高亮这个资源的上下游；点一行 = 选中那张卡。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Resources
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Resources
  */
 
 import { useState } from 'react'

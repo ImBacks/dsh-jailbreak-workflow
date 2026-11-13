@@ -9,7 +9,7 @@
  * 本插件在 profile 里那一行的 id 通常就是 `workflow-lite`（`cordis.patch.yml` 里写的）；
  * 有人手动换了 id 时，退回去找「字段正好是这几项」的那一行。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pluginConfig
+ * @module @minglink/dsh-jailbreak-workflow/host/pluginConfig
  */
 
 import {

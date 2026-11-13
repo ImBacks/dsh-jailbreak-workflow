@@ -7,7 +7,7 @@
  * 展示卡还能按设置隐藏几列（`hide`）、按一列排（`sort`，只排读到的这些行）、数字列垫一条按大小比例的浅条（`bars`）；
  * 给了 `onSort` 表头能点：点一下从小到大，再点倒过来，第三下回到原顺序。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DataTable
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DataTable
  */
 
 import { useEffect, useMemo } from 'react'

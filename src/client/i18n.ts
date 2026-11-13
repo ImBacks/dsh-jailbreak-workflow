@@ -6,7 +6,7 @@
  *
  * 措辞口径：界面上不出现「节点 / 边 / 图」这些实现词，统一叫「步骤 / 连线 / 工作流」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/i18n
+ * @module @minglink/dsh-jailbreak-workflow/client/i18n
  */
 
 export const NS = 'workflow-lite' as const

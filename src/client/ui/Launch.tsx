@@ -6,7 +6,7 @@
  * 下面可以搜同一工作区的会话、挑一个执行。
  * 执行 = 用模板现在的样子建一个实例，往那个会话发一句话，然后跳过去看它跑。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/Launch
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/Launch
  */
 
 import { useMemo, useState } from 'react'

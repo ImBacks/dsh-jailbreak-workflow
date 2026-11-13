@@ -7,7 +7,7 @@
  * 检查和模板用同一套规则（`shared/validate.ts` 的四级）：顶栏的检查结果列全部，画布按它标卡片；
  * 挡保存的只有保存级、编译级，而且只在改过图时才挡（没改过就是建实例时那张，不该拦着改状态）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useRunGraph
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useRunGraph
  */
 
 import {

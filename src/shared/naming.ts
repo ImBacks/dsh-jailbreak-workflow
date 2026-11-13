@@ -8,7 +8,7 @@
  * 写成**禁止集**而不是允许集：规则是"不许有什么"，所以中文名天然可用（`修复认证` 合法）。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/naming
+ * @module @minglink/dsh-jailbreak-workflow/shared/naming
  */
 
 import {

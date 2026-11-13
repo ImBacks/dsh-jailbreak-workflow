@@ -5,7 +5,7 @@
  * - 打开时统计一次，之后只在清理时重算——不跟着外面的重绘重拉（外面重绘很频繁，跟着拉会让按钮一直闪）。
  * - 清理已结束的实例要再确认一次（确认卡浮在按钮旁边）；旧版本遗留文件没人用，点一下就删，删完这一行就不显示了。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubStorage
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubStorage
  */
 
 import { useCallback, useEffect, useRef, useState } from 'react'

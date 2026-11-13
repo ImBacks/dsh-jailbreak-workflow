@@ -4,7 +4,7 @@
  * 整体状态的小标能点：挑一个新状态、二次确认后直接改（{@link HubRunStatus}）。
  * 状态文件读不出来时，小标能点：行下面展开原因（找不到的路径，或哪几处写得不对）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/HubRunRow
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/HubRunRow
  */
 
 import { useEffect, useState } from 'react'

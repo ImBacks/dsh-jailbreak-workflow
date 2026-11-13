@@ -9,7 +9,7 @@
  *
  * 文本框都是受控的：每敲一个字就改文档（合并成一条撤销步），失焦时封口。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/InputPanel
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/InputPanel
  */
 
 import { inputKind, inputReaders, isChoiceKind, stepInputs } from '../../shared/inputs.ts'

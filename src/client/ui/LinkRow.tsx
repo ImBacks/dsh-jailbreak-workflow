@@ -4,7 +4,7 @@
  * 上面一行：方向箭头、对面那一步的图标与名字、回头线的环、条件小标，行尾可放一样东西
  * （实例里是对面那一步的状态）；下面一行是这条线交了什么。整行点下去选中这条线。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/LinkRow
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/LinkRow
  */
 
 import { isStep } from '../../shared/model.ts'

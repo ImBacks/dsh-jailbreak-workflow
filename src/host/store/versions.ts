@@ -10,7 +10,7 @@
  * 切换到别的版本之前自动存的那份多一个 `autoBefore`（切到的版本号）。
  * 本模块只管读、写、比内容；锁、和磁盘上现在那份比对、切换时写回工作流，都在仓储里。
  *
- * @module @xiaoso/dsh-workflow-lite/host/store/versions
+ * @module @minglink/dsh-jailbreak-workflow/host/store/versions
  */
 
 import type { Dirent } from 'node:fs'

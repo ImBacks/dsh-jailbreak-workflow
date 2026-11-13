@@ -4,7 +4,7 @@
  * 哪些能展示、展示哪一项、缺省多大在 `shared/display.ts`（编译计划、工具也要用），这里转出去给界面用。
  * 卡片尺寸 = 标题行 + 展示区，布局与连线都按它算。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/display
+ * @module @minglink/dsh-jailbreak-workflow/client/model/display
  */
 
 import { type Display, displayFootprint } from '../../shared/display.ts'

@@ -6,7 +6,7 @@
  * 文件夹（图墙：里面的图按新旧排开，没有图时列出文件）。网址、Skill 不展示。展示设置存在资源的 `view` 里（见 `types.ts` 的 `ResourceView`）。
  * 卡片怎么画（标题行、留白、拖动取整）在 `client/model/display.ts`。
  *
- * @module @xiaoso/dsh-workflow-lite/shared/display
+ * @module @minglink/dsh-jailbreak-workflow/shared/display
  */
 
 import { type BoardCardRoom, boardCardRoom } from './board.ts'

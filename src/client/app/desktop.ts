@@ -5,7 +5,7 @@
  * `workspacePathApplications`（这类文件注册了哪些程序、哪个是默认）、`openWorkspacePath`
  * （用某个程序打开，或在文件管理器里显示）。服务可选：没接上就不显示「用其他程序打开」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/desktop
+ * @module @minglink/dsh-jailbreak-workflow/client/app/desktop
  */
 
 /** 能打开这份文件的一个程序。 */

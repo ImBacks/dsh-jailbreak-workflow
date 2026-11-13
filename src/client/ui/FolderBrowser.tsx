@@ -12,7 +12,7 @@
  * 动的只有 transform / opacity：换层和文件选择框一个做法——新一层读回来后，旧列表留个影子往外退、新列表从另一侧进来
  * （{@link useStage}），面包屑长出一级从前一级背后展开、缩短时收回去（{@link useTrail}）；选中块跟着光标上下滑。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/FolderBrowser
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/FolderBrowser
  */
 
 import { useCallback, useEffect, useId, useLayoutEffect, useMemo, useRef, useState } from 'react'

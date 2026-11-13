@@ -4,7 +4,7 @@
  * 先去掉首尾相同的行，中间用 Myers 差分（编辑最少的那种对齐）；改得太多（超过 {@link MAX_EDITS} 处）
  * 就不再找最优，中间整段当「删了旧的、加了新的」——这么大的改动逐行对齐也没法看。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/lineDiff
+ * @module @minglink/dsh-jailbreak-workflow/client/model/lineDiff
  */
 
 export interface DiffLine {

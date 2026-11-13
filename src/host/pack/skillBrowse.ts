@@ -6,7 +6,7 @@
  * 读文件、列目录、读图都走实例文件夹浏览的那几样（`runs/files.ts`），同样只许往下走、软链指出去的不认。
  * 用完前端 `pack/discard`；没删的跟着暂存区一天后清掉。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/skillBrowse
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/skillBrowse
  */
 
 import { mkdir, readFile, writeFile } from 'node:fs/promises'

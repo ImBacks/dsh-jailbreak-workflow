@@ -3,7 +3,7 @@
  * 概览是固定的概览图标；右栏收着时没有在看的东西，图标块不上色。点开按分类列出这次执行的节点
  * （概览 / 步骤 / 资源 / 输入），能搜，点一项就切过去（右栏收着就打开）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunNav
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunNav
  */
 
 import { useMemo, useState } from 'react'

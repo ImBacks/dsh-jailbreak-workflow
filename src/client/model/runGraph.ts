@@ -4,7 +4,7 @@
  * 「已改 x 处」的清单按 `shared/graphDiff.ts` 数；这里把清单里的一行还原成改之前的样子
  * （其余改动不动），交给编辑器整张换上（进撤销历史）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/runGraph
+ * @module @minglink/dsh-jailbreak-workflow/client/model/runGraph
  */
 
 import type { GraphChange } from '../../shared/graphDiff.ts'

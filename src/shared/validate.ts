@@ -10,7 +10,7 @@
  * 处理性失败（IO 中断、写前哈希冲突、物化失败）**不是校验级别**，不进这里。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/validate
+ * @module @minglink/dsh-jailbreak-workflow/shared/validate
  */
 
 import {

@@ -8,7 +8,7 @@
  *
  * 记忆的版本也用这一行：展开的那块换成「查看这一版的文件」（`onView`），第二行写文件数和大小。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/VersionRow
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/VersionRow
  */
 
 import { useEffect, useRef, useState } from 'react'

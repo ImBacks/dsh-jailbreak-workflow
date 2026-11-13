@@ -4,7 +4,7 @@
  * 行用名字当 React 的键（和动画的键）：改了名就成了新的一项，会被当成新挂上的、把入场动画再放一遍
  * （改完名字闪一下）。这里记「新名字 → 旧键」，改名的那一行仍是同一个元素：原位换回文字、顺着新排位滑过去。
  *
- * @module @xiaoso/dsh-workflow-lite/client/model/rowKeys
+ * @module @minglink/dsh-jailbreak-workflow/client/model/rowKeys
  */
 
 /** 新名字 → 这一行一直在用的键。 */

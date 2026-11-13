@@ -9,7 +9,7 @@
  * - 记忆（`{memory}/<id>`）：元数据总是写进清单，内容（那份 skill 文件夹）勾了才打进 `memories/<id>/`，缺省勾上；
  * - 相对路径、产出、网址、自定义文本：原样留在图里。
  *
- * @module @xiaoso/dsh-workflow-lite/host/pack/exporter
+ * @module @minglink/dsh-jailbreak-workflow/host/pack/exporter
  */
 
 import { readdir } from 'node:fs/promises'

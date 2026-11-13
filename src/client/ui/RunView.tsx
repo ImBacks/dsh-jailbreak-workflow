@@ -9,7 +9,7 @@
  * 顶栏和模板一样有撤销重做、整理、检查结果：撤销把图的改动和状态的改动排成一条（`useRunHistory`），
  * 检查和模板是同一套规则。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunView
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunView
  */
 
 import { useReactFlow } from '@xyflow/react'

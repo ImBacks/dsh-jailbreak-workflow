@@ -7,7 +7,7 @@
  *
  * `writeFileAtomic` **抛错**而不是返回错误码——把 errno 翻译成 `invalid_args` / `io_error`
  * 是仓储层的事（见 `repository.ts` 的 `mapWriteFailure`）。
- * @module @xiaoso/dsh-workflow-lite/host/store/atomic
+ * @module @minglink/dsh-jailbreak-workflow/host/store/atomic
  */
 
 import { createHash } from 'node:crypto'

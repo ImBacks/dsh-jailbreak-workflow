@@ -11,7 +11,7 @@
  * - **`warnings` 装警告与提示**，每条带 `level`，任何 action 都能带。
  *
  * 定位一律用 `id`；`label` 只用于显示。
- * @module @xiaoso/dsh-workflow-lite/host/tool/tool
+ * @module @minglink/dsh-jailbreak-workflow/host/tool/tool
  */
 
 import type { Context } from '@deepseek-ai/cordis'

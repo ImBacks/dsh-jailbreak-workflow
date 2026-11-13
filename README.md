@@ -10,7 +10,7 @@
 
 简体中文 | [English](./README.en.md) · [破甲技术交流论坛](https://openorigin.link/)（邀请码 `CESFAVBR`）
 
-[![npm](https://img.shields.io/npm/v/@xiaoso/dsh-workflow-lite.svg)](https://www.npmjs.com/package/@xiaoso/dsh-workflow-lite) [![node](https://img.shields.io/badge/node-22%2B-339933.svg)](https://nodejs.org) [![DeepSeek Harness 0.2.x](https://img.shields.io/badge/DeepSeek%20Harness-0.2.x-4d6bfe.svg)](https://github.com/deepseek-ai/deepseek-harness) [![workflow packs](https://img.shields.io/badge/workflow%20packs-dsh--workflows-3e7ce4.svg)](https://github.com/Minglink/dsh-workflows)
+[![npm](https://img.shields.io/npm/v/@minglink/dsh-jailbreak-workflow.svg)](https://www.npmjs.com/package/@minglink/dsh-jailbreak-workflow) [![node](https://img.shields.io/badge/node-22%2B-339933.svg)](https://nodejs.org) [![DeepSeek Harness 0.2.x](https://img.shields.io/badge/DeepSeek%20Harness-0.2.x-4d6bfe.svg)](https://github.com/deepseek-ai/deepseek-harness) [![workflow packs](https://img.shields.io/badge/workflow%20packs-dsh--workflows-3e7ce4.svg)](https://github.com/Minglink/dsh-workflows)
 
 </div>
 
@@ -66,14 +66,14 @@
 需要 Node.js 22 及以上。
 
 ```bash
-dsh plugin --profile web add @xiaoso/dsh-workflow-lite
+dsh plugin --profile web add @minglink/dsh-jailbreak-workflow
 dsh web
 ```
 
 ### 桌面端
 
 1. 在侧边栏打开「**插件**」，点击「**添加插件**」→「**安装第三方插件**」。
-2. 填入 `@xiaoso/dsh-workflow-lite`，点击「**安装**」。
+2. 填入 `@minglink/dsh-jailbreak-workflow`，点击「**安装**」。
 3. 重启 DeepSeek Harness。
 
 安装完成后，会话页顶部会出现「**工作流**」标签页。

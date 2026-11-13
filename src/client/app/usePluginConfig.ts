@@ -5,7 +5,7 @@
  * - 保存时只送改了的几项：改回默认值的发「恢复」（删掉 profile 里那一项），其余发「设成」。
  * - 别处先改过（修订号对不上）：重新读一遍，草稿留着，告诉人再保存一次。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/usePluginConfig
+ * @module @minglink/dsh-jailbreak-workflow/client/app/usePluginConfig
  */
 
 import { useCallback, useEffect, useRef, useState } from 'react'

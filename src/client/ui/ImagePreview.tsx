@@ -5,7 +5,7 @@
  * 工具条在上面，滚轮缩放、拖动平移、双击切换适应与原大，不用再点一下弹框。读不出来（太大、不在了）就说明原因。
  * 从哪读分两种：实例里的文件（{@link RunImagePreview}，走 `run/image`）、文件夹浏览的来源（{@link BrowseImagePreview}）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ImagePreview
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ImagePreview
  */
 
 import { useEffect, useState } from 'react'

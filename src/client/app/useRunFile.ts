@@ -1,7 +1,7 @@
 /**
  * dsh-workflow-lite — 读实例里的一份产出文件（文件面板的预览、查看框）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/app/useRunFile
+ * @module @minglink/dsh-jailbreak-workflow/client/app/useRunFile
  */
 
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'

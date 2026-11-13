@@ -8,7 +8,7 @@
  *
  * 改什么卡片当场跟着变；筛选框打字时停一下才生效（每敲一个字就去主机找一遍不值当）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DisplayContent
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DisplayContent
  */
 
 import { useEffect, useRef, useState } from 'react'

@@ -13,7 +13,7 @@
  * 全篇的序一律是 **`id` 的码位序**（不是 `localeCompare`，也不是文件里的数组序）。
  *
  * 纯函数，不碰磁盘、不 import DSH 包。
- * @module @xiaoso/dsh-workflow-lite/shared/graph
+ * @module @minglink/dsh-jailbreak-workflow/shared/graph
  */
 
 import { idKey, isStep } from './model.ts'

@@ -9,7 +9,7 @@
  * 见 app/displayLook.ts；下面一个「隐藏标题」）、适配（展示的是文件时：写它的步骤的任务描述里带上卡片尺寸）。说明都收进提示里。
  * 实例视图里改的只是这个实例（和挪卡片一样进草稿栏，存的时候不通知模型）。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/DisplaySettings
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/DisplaySettings
  */
 
 import { useRef, useState } from 'react'

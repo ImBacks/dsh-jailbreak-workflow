@@ -4,7 +4,7 @@
  * 从上到下：名字（标题栏里直接改）、ID、描述（只在卡片上显示，不进计划）、内容（一项一行，点开在模态框里改）、
  * 写它的步骤（每个带整份写出 / 在原文件上更新的开关）、读它的步骤。一条线都没连时写明「交给整个工作流」。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ResourcePanel
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ResourcePanel
  */
 
 import { useEffect, useState } from 'react'

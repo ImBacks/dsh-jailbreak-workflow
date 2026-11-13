@@ -14,7 +14,7 @@
  * {@link RUN_HISTORY_FILE_MAX} 的不存，整个实例最多 {@link RUN_HISTORY_INSTANCE_MAX}（超了从版数最多的那份删中间的）。
  * 文件夹不存。只有插件里执行时才有（导出成 skill 的执行没有插件看着）。
  *
- * @module @xiaoso/dsh-workflow-lite/host/runs/history
+ * @module @minglink/dsh-jailbreak-workflow/host/runs/history
  */
 
 import { createHash } from 'node:crypto'

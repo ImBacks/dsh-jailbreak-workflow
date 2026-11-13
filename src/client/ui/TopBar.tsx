@@ -5,7 +5,7 @@
  * 低频的文件操作（新建、改名、删除、重新加载）都收在工作流名字的下拉里（{@link WorkflowSwitcher}），
  * 顶栏上常驻的只有高频动作。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/TopBar
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/TopBar
  */
 
 import { useRef } from 'react'

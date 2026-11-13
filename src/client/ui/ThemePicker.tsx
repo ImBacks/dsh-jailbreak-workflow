@@ -6,7 +6,7 @@
  * 亮、暗两行里，此刻正用着的那一行标「正在用」。
  * 最下面一行是画布上的展示卡默认长什么样（卡片、柔边镂空、纯镂空、毛玻璃，见 app/displayLook.ts），同样即点即生效。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/ThemePicker
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/ThemePicker
  */
 
 import { VIEW_LOOKS, type ViewLook } from '../../shared/types.ts'

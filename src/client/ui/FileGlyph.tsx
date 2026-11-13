@@ -4,7 +4,7 @@
  *
  * 颜色用步骤卡的那套色板（`--wl-c-*`），跟着主题走；认不出的类型是灰色的通用文件图标。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/FileGlyph
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/FileGlyph
  */
 
 import { type FileGroup, fileGroupOf } from '../model/fileKind.ts'

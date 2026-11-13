@@ -3,7 +3,7 @@
  * （和模板编辑的顶栏同一组）；打开模板、复制状态文件路径、「在看什么」与右栏开关。
  * 状态小标与下拉里「本会话的实例」那一段，工作流中心与模板编辑的顶栏也用。
  *
- * @module @xiaoso/dsh-workflow-lite/client/ui/RunTopBar
+ * @module @minglink/dsh-jailbreak-workflow/client/ui/RunTopBar
  */
 
 import { useState } from 'react'
